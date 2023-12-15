@@ -1,0 +1,9 @@
+00:00:00.000 [INFO] [libseat] [libseat/backend/seatd.c:64] Could not connect to socket /run/seatd.sock: No such file or directory
+00:00:00.000 [INFO] [libseat] [libseat/libseat.c:76] Backend 'seatd' failed to open seat, skipping
+00:00:00.009 [INFO] [libseat] [libseat/libseat.c:73] Seat opened with backend 'logind'
+00:00:00.009 [INFO] [backend/session/session.c:109] Successfully loaded libseat session
+00:00:00.009 [INFO] [backend/backend.c:84] Waiting for a session to become active
+00:00:10.020 [ERROR] [backend/backend.c:107] Timeout waiting session to become active
+00:00:10.020 [ERROR] [backend/backend.c:366] Failed to start a DRM session
+terminate called after throwing an instance of 'std::runtime_error'
+  what():  wlr_backend_autocreate() failed!

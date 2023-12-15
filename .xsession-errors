@@ -1,0 +1,103 @@
+/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+
+(wrapper-2.0:7655): xfce4-notification-plugin-WARNING **: 18:00:50.198: Unable to check for unread messages: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.xfce.Notifyd was not provided by any .service files
+
+(wrapper-2.0:7653): libnotify-WARNING **: 18:00:50.283: Failed to connect to proxy
+
+(wrapper-2.0:7654): xfce4-power-manager-plugin-WARNING **: 18:00:50.567: Xfce4-power-manager: The panel plugin is present, so the tray icon gets disabled.
+
+(xfce4-session:7548): xfce4-session-WARNING **: 18:00:51.816: Unable to launch "cmst -w5" (specified by autostart/cmst-autostart.desktop): Failed to execute child process “cmst” (No such file or directory)
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:51.904: Failed to connect to proxy
+
+(xfce4-power-manager:7794): xfce4-power-manager-WARNING **: 18:00:51.937: could not map keysym 1008ffa8 to keycode
+
+
+(xfce4-power-manager:7794): xfce4-power-manager-WARNING **: 18:00:51.965: Unable to set the kernel brightness switch parameter to 0.
+
+(xfce4-power-manager:7794): xfce4-power-manager-WARNING **: 18:00:51.970: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.024: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.089: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.159: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.200: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.251: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.307: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.360: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.428: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.463: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.529: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.615: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.678: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.702: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.726: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.754: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.801: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.858: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:52.928: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:53.001: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:53.061: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:53.118: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:53.177: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:53.247: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:53.311: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:53.386: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:53.439: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:53.516: Failed to connect to proxy
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:53.588: Failed to connect to proxy
+xfce4-notifyd-Message: 18:00:53.605: Your sqlite library does not support OFFSET/LIMIT with DELETE; falling back to less-efficient deletion method
+
+(xfce4-power-manager:7794): libnotify-WARNING **: 18:00:53.646: Failed to connect to proxy
+
+(epiphany:7864): Adwaita-WARNING **: 18:00:54.434: Using GtkSettings:gtk-application-prefer-dark-theme with libadwaita is unsupported. Please use AdwStyleManager:color-scheme instead.
+
+** (epiphany:7864): WARNING **: 18:00:54.760: Error loading plugin: libnuspell.so.5: cannot open shared object file: No such file or directory
+
+
+** (epiphany:7864): WARNING **: 18:00:54.761: Error loading plugin: libhspell.so.0: cannot open shared object file: No such file or directory
+
+
+** (epiphany:7864): WARNING **: 18:00:54.762: Error loading plugin: libhunspell-1.7.so.0: cannot open shared object file: No such file or directory
+
+
+** (epiphany:7864): WARNING **: 18:00:54.763: Error loading plugin: libaspell.so.15: cannot open shared object file: No such file or directory
+
+
+** (epiphany:7864): WARNING **: 18:00:54.764: Error loading plugin: libvoikko.so.1: cannot open shared object file: No such file or directory
+
+
+** (process:2): WARNING **: 18:03:23.297: Error writing credentials to socket: Error sending message: Broken pipe
+
+(process:2): epiphany-WARNING **: 18:04:53.335: Error getting password from WebView: Message PasswordManager.QueryPassword was not handled
+
+
+(xfsettingsd:7626): libxfce4ui-WARNING **: 18:05:42.482: ICE I/O Error
+
+(xfsettingsd:7626): libxfce4ui-WARNING **: 18:05:42.565: Disconnected from session manager.
